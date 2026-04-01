@@ -33,7 +33,7 @@ I am a web developer who lives at the intersection of **clean code** and **stunn
 ## 📈 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Fauzan-Akmal&show_icons=true&theme=radical" />
-<p align="left">
+<p align="right">
   <img src="https://metrics.lecoq.io/Fauzan-Akmal?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=Asia/Jakarta" alt="Fauzan Metrics" width="100%" />
 </p>
 
